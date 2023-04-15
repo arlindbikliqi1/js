@@ -1,0 +1,19 @@
+.arlind{
+	display: flex;
+	justify-content: center;
+	background-color: red;
+	color: white;
+	padding: 45px;
+	transition: .4s ease-in-out;
+}
+.bikliqi{
+		display: flex;
+	justify-content: center;
+	background-color: red;
+	color: white;
+	padding: 45px;
+	transition: .6s ease-in-out;
+}
+.hide{
+	display: none;
+}
